@@ -1,0 +1,3 @@
+import DepartmentCreatorContainer from './containers/DepartmentCreatorContainer'
+
+export default DepartmentCreatorContainer
